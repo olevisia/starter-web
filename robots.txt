@@ -4,4 +4,4 @@ User-agent: *
 modif on master ON
 then modif on feature branch
 
-modif1 for rebase
+modif2 for rebase
